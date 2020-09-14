@@ -13,5 +13,5 @@
 </p>
 
 <p>
-  <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=gabamnml&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=gabamnml&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=fc03ca&text_color=969396">
 </p>
