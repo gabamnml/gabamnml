@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Gabriel Aramburu A.K.A Gabamnml</h1>
 
-<!--
-**gabamnml/gabamnml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i>Software Architect & Security Advocate. MIDI Lover. Movies Killer. CTO at UNIQ</i>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://twitter.com/intent/follow?screen_name=gabamnml">
+    <img src="https://img.shields.io/twitter/follow/gabamnml?style=social">
+  </a>
+  '
+  <a href="https://www.paypal.me/gabamnml">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=gabamnml&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+</p>
