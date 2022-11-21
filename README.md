@@ -14,5 +14,5 @@
 </p>
 
 <p>
-  <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=gabamnml&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=6a737d&text_color=969396">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark">    <img  alt="gabamnml's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabamnml?cardType=level&theme=dark" />  </a>
 </p>
