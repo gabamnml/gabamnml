@@ -1,5 +1,5 @@
 <p>
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark">    <img  alt="gabamnml's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabamnml?cardType=level&theme=dark" />  </a>
+<img  alt="My GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabamnml?cardType=level&theme=github-dark&showIcons=false&Title=DD272700" />
 </p>
 
 <i>Software Architect & Security Advocate. MIDI Lover. Movies Killer. CTO at UNIQ</i>
