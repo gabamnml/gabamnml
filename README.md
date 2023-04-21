@@ -2,7 +2,7 @@
 <img  alt="My GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabamnml?cardType=level&theme=github-dark&showIcons=false&Title=DD272700" />
 </p>
 
-<i>Software Architect & Security Advocate. MIDI Lover. Movies Killer. CTO at UNIQ</i>
+<i>Software Architect & Security Advocate. MIDI Lover. Movies Killer. CTO & Co-Founder of <a href="[https://www.buymeacoffee.com/gabamnml](https://calypso.day/)" target="_blank"> Calypso </a> </i>
 
 <p>
   <a href="https://twitter.com/intent/follow?screen_name=gabamnml">
