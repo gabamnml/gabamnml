@@ -1,7 +1,3 @@
-<p>
-<img  alt="My GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabamnml?cardType=level&theme=github-dark&showIcons=false&Title=DD272700" />
-</p>
-
 <i>Software Architect & Security Advocate. CTO & Co-Founder of <a href="https://calypso.ms" target="_blank"> Calypso </a> </i>
 
 <p>
